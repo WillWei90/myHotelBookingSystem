@@ -123,8 +123,3 @@ An online booking system for a hot spring resort hotel, providing room display, 
 
 ## License
 © 2024 LAZY DOG HOTEL. All Rights Reserved.
-
-## Contact Information
-- **Technical Support**: support@lazydoghotel.com
-- **Customer Service**: service@lazydoghotel.com
-- **Business Inquiries**: business@lazydoghotel.com
