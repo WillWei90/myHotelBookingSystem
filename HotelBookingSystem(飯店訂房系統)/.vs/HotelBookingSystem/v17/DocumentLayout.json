@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\views\\member\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\views\\member\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\models\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\models\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\views\\member\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\views\\member\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\views\\member\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\views\\member\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|c:\\users\\swerxen\\desktop\\git1224_new\\hotel_willgithub\\hotelbookingsystem(12.17will)\\hotelbookingsystem\\views\\member\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4171EB71-F2CC-41FE-913B-3FF6F1F4375A}|HotelBookingSystem\\HotelBookingSystem.csproj|solutionrelative:hotelbookingsystem\\views\\member\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,53 +46,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
-              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
-              "RelativeToolTip": "HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-29T00:17:03.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFUBAAAAAAAAAADwv8cBAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T06:40:03.639Z",
+              "DocumentIndex": 1,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Models\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Models\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Models\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "HotelBookingSystem\\Models\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:01:43.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HotelBookingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAAKoBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T08:46:13.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
+              "RelativeToolTip": "HotelBookingSystem\\Views\\Member\\SignIn.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T13:36:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Member\\SignUp.cshtml",
               "RelativeDocumentMoniker": "HotelBookingSystem\\Views\\Member\\SignUp.cshtml",
               "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Views\\Member\\SignUp.cshtml",
               "RelativeToolTip": "HotelBookingSystem\\Views\\Member\\SignUp.cshtml",
-              "ViewState": "AgIAAPoAAAAAAAAAAAAuwAQBAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAALoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:50:01.56Z"
+              "WhenOpened": "2025-01-02T12:56:58.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MemberController.cs",
               "DocumentMoniker": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "HotelBookingSystem\\Controllers\\MemberController.cs",
               "ToolTip": "C:\\Users\\Swerxen\\Desktop\\git1224_new\\Hotel_WillGitHub\\HotelBookingSystem(12.17will)\\HotelBookingSystem\\Controllers\\MemberController.cs",
               "RelativeToolTip": "HotelBookingSystem\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwHcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAAAPABAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T03:01:31.594Z",
+              "WhenOpened": "2024-12-30T05:18:01.502Z",
               "EditorCaption": ""
             }
           ]
